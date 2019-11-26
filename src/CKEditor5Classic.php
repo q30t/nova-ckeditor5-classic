@@ -82,4 +82,9 @@ class CKEditor5Classic extends Trix
             };
         }
     }
+
+    public function getStoragePath()
+    {
+        return;
+    }
 }
